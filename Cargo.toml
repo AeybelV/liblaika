@@ -1,0 +1,10 @@
+[package]
+name = "liblaika"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "laika"
+crate-type = ["lib", "cdylib"]  # "lib" for Rust, "cdylib" for C
+
+[dependencies]
