@@ -2,6 +2,9 @@
 name = "liblaika"
 version = "0.1.0"
 edition = "2021"
+authors = ["Aeybel Varghese <aeybelvarghese@gmail.com>"]
+license = "GPL-3.0"
+repository = "https://github.com/AeybelV/liblaika"
 
 [lib]
 name = "laika"
